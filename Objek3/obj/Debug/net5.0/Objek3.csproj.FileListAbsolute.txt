@@ -1,0 +1,16 @@
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek3\obj\Debug\net5.0\Objek3.csproj.AssemblyReference.cache
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek3\obj\Debug\net5.0\Objek3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek3\obj\Debug\net5.0\Objek3.AssemblyInfoInputs.cache
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek3\obj\Debug\net5.0\Objek3.AssemblyInfo.cs
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek3\obj\Debug\net5.0\Objek3.csproj.CoreCompileInputs.cache
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek3\bin\Debug\net5.0\Objek3.exe
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek3\bin\Debug\net5.0\Objek3.deps.json
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek3\bin\Debug\net5.0\Objek3.runtimeconfig.json
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek3\bin\Debug\net5.0\Objek3.runtimeconfig.dev.json
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek3\bin\Debug\net5.0\Objek3.dll
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek3\bin\Debug\net5.0\ref\Objek3.dll
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek3\bin\Debug\net5.0\Objek3.pdb
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek3\obj\Debug\net5.0\Objek3.dll
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek3\obj\Debug\net5.0\ref\Objek3.dll
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek3\obj\Debug\net5.0\Objek3.pdb
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek3\obj\Debug\net5.0\Objek3.genruntimeconfig.cache

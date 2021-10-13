@@ -1,0 +1,16 @@
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek1\build\bin\Debug\net5.0\build.exe
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek1\build\bin\Debug\net5.0\build.deps.json
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek1\build\bin\Debug\net5.0\build.runtimeconfig.json
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek1\build\bin\Debug\net5.0\build.runtimeconfig.dev.json
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek1\build\bin\Debug\net5.0\build.dll
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek1\build\bin\Debug\net5.0\ref\build.dll
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek1\build\bin\Debug\net5.0\build.pdb
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek1\build\obj\Debug\net5.0\build.csproj.AssemblyReference.cache
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek1\build\obj\Debug\net5.0\build.GeneratedMSBuildEditorConfig.editorconfig
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek1\build\obj\Debug\net5.0\build.AssemblyInfoInputs.cache
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek1\build\obj\Debug\net5.0\build.AssemblyInfo.cs
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek1\build\obj\Debug\net5.0\build.csproj.CoreCompileInputs.cache
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek1\build\obj\Debug\net5.0\build.dll
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek1\build\obj\Debug\net5.0\ref\build.dll
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek1\build\obj\Debug\net5.0\build.pdb
+E:\Intern\OCBC\Hacktiv8\Codes\Sesi 05\Objek1\build\obj\Debug\net5.0\build.genruntimeconfig.cache
